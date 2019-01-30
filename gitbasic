@@ -1,0 +1,57 @@
+Aquí encontrarán informacion basica pero importante sobre Git
+
+** Instalación de Git
+
+La instalación dependera del sistema operativo que se tenga, aquí las instrucciones para algunos sistemas operativos.
+
++ Linux Fedora
+	yum install git
+
++ Linux Ubuntu o Debian
+	apt-get install git
+
++ En Mac se puede descargar el instalador en:  http://git-scm.com/download/mac.
+
+** Una vez que tenga su cuenta de Github y git instalado en sus computoras, lo primeto es configurar git.
+
++ Tu Identidad
+
+Lo primero que deberás hacer cuando instales Git es establecer tu nombre de usuario y dirección de correo electrónico.
+ Esto es importante porque los "commits" de Git usan esta información, y es introducida de manera inmutable en los commits que envías:
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
++ Tu Editor
+Ahora que tu identidad está configurada, puedes elegir el editor de texto por defecto que se utilizará cuando Git necesite que introduzcas un mensaje. Si no indicas nada, Git usa el editor por defecto de tu sistema, que generalmente es Vim. Si quieres usar otro editor de texto como Emacs, puedes hacer lo siguiente:
+
+$ git config --global core.editor vi
+
+
++ Comprobando tu Configuración
+Si quieres comprobar tu configuración, puedes usar el comando git config --list para mostrar todas las propiedades que Git ha configurado:
+
+$ git config --list
+
+Una vez que tenga su cuenta de Github, su configuración de git y pertenezca a proyecto "algoritmos-2019-2" podemos clonar nuestro primer repositorio.
+Para ellos vaya a su repositorio copie la dirección y haga lo siguiente
+
+
++ Abra la terminal
+
++ Muevase al directorio Documents/
+$ cd Documents/
+
++ Cree un directorio con el nombre Algoritmos2019-2
+$ mkdir Algoritmos2019-2
+
++ Muevase a Algoritmos2019-2
+$ cd Algoritmos2019-1
+
++ Justo ahí clone el repositorio
+$ git clone direccion_del_repositorio
+
+
+
+
+
