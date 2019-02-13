@@ -1,0 +1,30 @@
+* ¿Cuáles son los dos valores del tipo de datos booleano? ¿Cómo se escriben?
+
+* ¿Cuáles son los tres operadores booleanos?
+
+* Escriba una rutina que genere todas las tablas de verdad de cada operador booleano (es decir, cada combinación posible de valores booleanos para cada  operador). A continuación se muestra un ejemplo para el operador or.
+booleanos = [False, True]
+
+* ¿Cuáles son los seis operadores de comparación?
+
+* ¿Cuál es la diferencia entre el operador igual y el operador de asignación?
+
+* Explique qué es una condición y dónde la usaría.
+
+* ¿Qué puede hacer si su programa está atascado en un bucle infinito?
+
+* ¿Cuál es la diferencia entre romper y continuar?
+
+*¿Cuál es la diferencia entre rango (10), rango (0, 10) y rango (0, 10, 1) en un bucle for?
+
+* Escribe un programa corto que imprima los primeros "N" números y la suma de mismos "N" usando un bucle for. Luego escribe un programa equivalente que imprima los números del 1 al 10 usando un bucle while.
+
+* Un ciclo que imprima los primeros M números impares.
+
+* Escriba un programa que calcule los primeros N términos de la serie de fibonacci.
+
+* Escriba un programa que calcule el factorial de un número N.
+
+
+
+ 
