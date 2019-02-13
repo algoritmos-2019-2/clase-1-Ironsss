@@ -1,0 +1,50 @@
+Algoritmos 2019-2 clase 13/02/19 cuestionario 
+García Espinosa David Alexis 
+Los programas solicitados en "instrucciones.txt" 
+serán añadidos en la carpeta correspondientes.
+
+
+ *¿Cuáles son los dos valores del tipo de datos booleano? 
+	Verdadero y Falso
+
+ *¿Cómo se escriben?
+	TRUE  y FALSE respectivamente 
+
+ *¿Cuáles son los tres operadores booleanos?
+	AND OR NOT 
+
+ *¿Cuáles son los seis operadores de comparación?
+	$A == $B //Igual a......... da TRUE si A es igual a B
+	$A != $B //Desigual........ da TRUE si A es distinto de B 
+	$A >  $B //Mayor que....... da TRUE si A es mayor que B
+	$A <  $B //Menor que....... da TRUE si A es menor que B 
+	$A <= $B //Menor igual que..da TRUE si A es menor igual que B 
+	$A >= $B //Mayor igual que..da TRUE si A es mayor igual que B
+ 
+ *¿Cuál es la diferencia entre el operador igual y el operador de asignación?
+	Para el operador de asignacion "=" es necesario tener 2 variables las cuales serán igualadas de manera aritmetica 
+	Para el operador de asignación "==" compara 2 entradas A,B las cuales arrojaran un valor booleano TRUE si cumplen con la igualdad
+ 
+ *Explique qué es una condición y dónde la usaría
+	Es un tipo de verificador que tienen los lenguajes de programación para poder realizar una acción en caso de que se cumplan
+	los requerimienos solicitados, es utilizado comunmente en la programación orientada a objetos donde se pretende que el objeto realice
+	alguna acción debido a cierto valor, un ejemplo sería el "if"
+
+ *¿Qué puede hacer si su programa está atascado en un bucle infinito?
+	usaría el comando ctrl+C el cual detendría el programa, podría tambien buscar el código de ejecución que tiene la tarea/programa 
+	atascado y lo mandaría a matar con la función kill+"número de tarea"
+
+ *¿Cuál es la diferencia entre romper y continuar?
+	Romper: "break" detiene completamente el ciclo dado 
+	Continuar: "CONTINUE" permite que un ciclo continue después de evaluar un condicional
+ 
+ 
+*¿Cuál es la diferencia entre rango (10), rango (0, 10) y rango (0, 10, 1) en un bucle for?
+	
+	a)for i in range(10)------ Hace un ciclo de 10 corridas o ciclos  
+	b)for i in range(0,10)----hace un ciclo que comienza en 0 y termina en 10 haciendo un total de 11 iteraciones 
+	c)for i in range(0,10,1)--Hace un total de 10 ciclos donde en la primera entrada se indica el valor inicial de ciclo le segunda entrada el valor
+			          final de cantidades de ciclos que hará, la tercera es lo equivalente a una velocidad indicando de cuanto en cuanto el 
+			          el valor de i se ira aumentando (valor inicial de i, valor final de i, como irá creciendo i en magnitud) 
+		
+---------------TOTAL DE PROGRAMAS A ENTREGAR 5--------------------------------------------------------------------------------------------------
