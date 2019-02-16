@@ -1,0 +1,14 @@
+()bajo nivel---- Lenguaje Máquina
+()Medio--------- Ensamblador
+()Alto---------- Lenguajes de Programación
+
+Psw: prfr61z02
+
+Julia- Interpreta y compila 
+
+Para poder cambiar los permisos usar función chmod
+donde de acuerdo a la posición de un permiso se le biyecta un 
+valor de acuerdo a la posición del permiso
+
+Ejercicio:
+Dado n hacer la suma de los numeros anteriores 
