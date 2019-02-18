@@ -1,0 +1,5 @@
+cómo se usa jupyter y qué es?
+programar una función para calcular el producto de matrices
+
+Una tupla es inmutable y además es una lista sin métodos
+
