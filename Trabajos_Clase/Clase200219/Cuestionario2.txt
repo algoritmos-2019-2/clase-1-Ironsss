@@ -1,0 +1,63 @@
+Cuestionario acerca de funciones 
+
+García Espinosa David Alexis Algoritmos C. 2019-2
+
+ +++______Funciones
+
+ *¿Por qué son ventajosas las funciones para tener en sus programas?
+	Debido a que nos permiten mandar a llmar códigos muy largos 
+	donde algunas veces lo que queremos es la evaluación en de un 
+	entero en una fórmula, reduciendo así la cantidad de código
+
+ *¿Cuándo se ejecuta el código en una función: cuando se define la función o cuando se llama a la función?
+	Cuando se manda a llamar la función *nombrefunción(valor dado)*
+ *¿Qué enunciado crea una función?
+	def "nombre_función():"
+ *¿Cuál es la diferencia entre una función y una llamada de función?
+	una función es un conjunto de pasos a seguir sobre los cuales
+	se podrá devolver o no una acción y una llamada de función es el caso
+	donde activamos la función definida anteriormente 
+ *¿Cuántos ámbitos globales hay en un programa de Python? ¿Cuántos ámbitos locales?
+	Python admite 3 tipos de variables las que son locales, no locales y 
+	globales estas deenderán si pertenecen a una subrutina(local)
+	rutina superior(no local) y código principal o rutina principal (global)
+	Python tiene palabras reservadas para identificarlas 
+	estas son nonlocal y global
+	
+ *¿Qué sucede con las variables en un ámbito local cuando se devuelve la llamada a la función?
+	se puden volver varibles de tipo local depende tambien de como se haya
+	definido la función ya que se pudo haber asignado una variable global
+	en una función 
+ *¿Qué es un valor de retorno? ¿Puede un valor de retorno ser parte de una expresión?
+	Un valor de retorno te devuelve el tipo de variable que sea la función
+	es decir si una función tiene cómo codomino los numeros enteros 
+	el valor de retorno devolvera una variable tipo entero que haya pasado
+	por el conjunto de procesos dentro de la función 
+ *Si una función no tiene una declaración de retorno, ¿cuál es el valor de retorno de una llamada a esa función?. 
+	es un valor de tipo caracter dado que solo devolverá algo en 
+	caso de que dentro de la función haya impreso algo una vez impreso 
+	alguna cadena serán devueltas como caracteres
+ *¿Cómo puede forzar una variable en una función para referirse a la variable global?
+	gracias a los comandos reservados de global y nolocal para referirse 
+	a varibles que se encuentra fuera de la definición de la función  
+ *¿Cuál es el tipo de datos de None?
+	None no necesariamente se refiere 0 puede significar ninguno siendo 
+	un tipo de asignación dinámico dependiente de a quien se lo asignemos
+ *¿Qué hace la declaración import random?
+	import manda a llamar cualquier librería de python y en este caso 
+	manda llamar la librería random la cual incluye funciones para 
+	aleatorizar conjuntos de números
+ *Si tuviera una función llamada randint() en un módulo llamado random, ¿cómo lo llamaría después de importar random?
+	una vez realizado el comando import random
+	tendría acceso a las funciones pudiendo mandar a llamar una función
+	como si estuviera ya escrita en el código en este caso 
+	randint(*Valor*)
+
+
+
+ ++++___Lista y tuplas
+ *¿Qué es []?
+	Es una forma de realizar un arreglo en el caso de que se le asigne
+	a una variable se creeará una lista lista = [1,...,n]
+ *¿Cómo asignaría el valor 'hola' como el tercer valor en una lista almacenada? en una variable llamada spam? 
+	spam = [1,2,hola,4]
