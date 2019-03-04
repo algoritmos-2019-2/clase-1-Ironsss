@@ -1,0 +1,15 @@
+Programas a Realizas
+
+testPrime() verificar si un número es primo
+
+prime() que genere los primos menores o iguales a un N dado 
+
+twinrime()que genere una tupla con los primos gemelos menores
+	   o iguales que n 
+
+theoremArihtmetic()que regrese una lista con la descomposición
+		   en potencias de primos para cualquier n 
+
+mcm() que regrese el mínimo común un multiplo de 2 enteros
+
+MCD() que regrese el máximo común divisor de 2 enteros
