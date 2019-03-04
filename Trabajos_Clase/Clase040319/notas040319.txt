@@ -1,0 +1,18 @@
+
+Introducción a numpy 
+Conjunto de funciones provenientes de C++,C, FORTRAN 
+
+Generación de funiciones 
+Uso de librería 
+
+Funciones en base a arreglos homogeneos y arbitrarios 
+
+arange genera un arreglo del o al n arrange(n)
+
+Nuevos tipos de variables 
+
+numpy.narray
+
+Arreglos con contenidos en forma de lista 
+
+

@@ -1,3 +1,47 @@
+
 Introducción a numpy 
 Conjunto de funciones provenientes de C++,C, FORTRAN 
+
+Generación de funiciones 
+Uso de librería 
+
+Funciones en base a arreglos homogeneos y arbitrarios 
+
+arange genera un arreglo del o al n arrange(n)
+
+Nuevos tipos de variables 
+
+numpy.narray
+
+Arreglos con contenidos en forma de lista 
+
+Método en el que se puede especificar el tipo de variables que tiene dentro 
+
+Arreglos ordenados por la magnitud aritmetica del tipo utilizado ej: False (0), True (1)
+
+Flotar el punto mover el punto para generar elementos no enteros 
+
+importancia de los arrays álgebra de vectores, señales
+
+para generar un arreglo númerico -> 
+
+a = arange(n)
+a.shape(n,0) función para que indique la forma del arreglo 
+
+arange(n)reshape(n,n) genera una matriz de nxn
+
+una lista se transforma por medio de arra{list[x,y,z,z]}
+
+indice dado por renglones
+
+para encontrar un número dentro de una matriz 
+
+N = definida matricialmente
+
+N[2,1] elemento Aij de la matriz N[i,j]
+
+para devolver todo un renglon o toda una columna 
+
+N[n,:],N[:,n]
+
 
