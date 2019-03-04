@@ -1,0 +1,1 @@
+##Notas acerca de encriptación bajo deslazamiento de caracteres
