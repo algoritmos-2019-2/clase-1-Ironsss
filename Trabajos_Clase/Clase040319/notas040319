@@ -44,4 +44,58 @@ para devolver todo un renglon o toda una columna
 
 N[n,:],N[:,n]
 
+Uso para manejo tensorial
 
+a.dim catidad de arreglos que se necesita para generarlo
+
+a.size número de elementos 
+
+a.itemsize número de bits de los elementos
+
+a.resize cambia la forma
+
+a.T transponer 
+
+álgebra lineal
+posible creación de matrices unitarias
+
+i2 = eye(2)
+savetxt() permite guardar los resultados en un txt 
+
+numpy utiliza la paqueterá para tener una mlista de matrices 
+linalg 
+
+matrix([1,2],[2,2])
+
+atributos y métodos que se puede hacer con ellos y que puedo cambiar de ellos  
+
+caracteristicas invariantes traza y determinante 
+
+manipulación de matrices 
+numpy.linalg 
+inv(B)
+
+
+definiendo funciones y librerias 
+
+def factorial(n):
+ if n = 0;
+	return 1
+ else 
+	retur n * factorial(n-1)
+def sen(x,n):
+	i = 0
+	suma = 0
+	while i < n:
+	        aux = 2*i +1
+                suma = ((-1)**i/factorial(aux))*x**aux + suma
+	        i += 1
+	return suma 
+
+	
+	
+	
+	      
+
+
+ 
